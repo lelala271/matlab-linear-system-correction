@@ -1,0 +1,21 @@
+# MATLAB / Simulink generated caches and temporary files
+slprj/
+sccprj/
+codegen/
+*_ert_rtw/
+*_grt_rtw/
+*.slxc
+*.asv
+*.autosave
+*.m~
+*.slx.autosave
+*.slx.bak
+*.mdl.bak
+*.mexw64
+*.log
+*.tmp
+*.bak
+*.rpt
+.DS_Store
+Thumbs.db
+# Shipped MAT data, SLX models, CSV and PNG results remain tracked.
